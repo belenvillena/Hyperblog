@@ -1,3 +1,7 @@
 Esta es la maestria de fredy
 
 tengo 23 años jajaja
+
+creo que necesitamos cambiar algunas cosas pero no todas
+
+estas no deberian guardarse en este commit
